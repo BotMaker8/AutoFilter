@@ -1,6 +1,6 @@
 # Don't Remove Credit @SSABOTS
 # Subscribe YouTube Channel For Amazing Bot @SSABOTS
-# Ask Doubt on telegram @SSABOTS_DISCUSSION
+
 
 FROM python:3.10.8-slim-buster
 
